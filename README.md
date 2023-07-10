@@ -30,7 +30,7 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - Developed data profiling algorithms to automatically identify the data types, distributions, and correlations within the dataset.
 - Enabled users to generate basic visualizations and gain initial insights into the dataset, saving time and effort in manual exploratory data analysis.
 
-### [Project 3: House Price Prediction in Mumbai](https://github.com/your_username/house-price-prediction)
+### [Project 3: House Price Prediction in Mumbai](https://github.com/mahirbarot/ai_mumbai)
 
 - Created a machine learning model to predict house prices in Mumbai based on various features such as location, size, amenities, and property type.
 - Collected and preprocessed a dataset containing historical property data, considering data cleaning, feature engineering, and outlier removal factors.
@@ -61,5 +61,6 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - GitHub: [mahirbarot](https://github.com/mahirbarot)
 - Email: mahir31012002@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/mahirbarot)
+- Twitter: (https://www.twitter.com/mahirbarott)
 
 Feel free to explore my GitHub repositories and reach out to me if you have any questions or collaboration opportunities. Let's connect and explore the fascinating world of data science together!
