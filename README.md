@@ -17,7 +17,7 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - Version Control: Git, GitHub
 - Software Development: Object-Oriented Programming (OOP)
 
-### [Project 1: NeuralBee - A Saas product](private-sourced)
+### [Project 1: NeuralBee - A Saas product]
 
 - Developed an innovative NeuralBee project that utilizes generative AI techniques to convert textual descriptions into fully functional websites.
 - Implemented natural language processing (NLP) algorithms to extract critical information from the input text and generate HTML and CSS code accordingly.
@@ -43,7 +43,7 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
   - Description: Gained knowledge about the cloud computing domain.
 
 ## Work Experience
-- [=Nueralbee], [Vadodara, India]
+- Neuralbee, Vadodara, India
   - Position: Founded
   - Description: Started building this Saas product considering the Indian market segment.
 
