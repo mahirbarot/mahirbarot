@@ -7,6 +7,9 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - Bachelor's Degree in Computer Science Engineering (In Progress)
   - Navrachna University, Vadodara
   - Expected Graduation: 2024
+- Diploma in IT Engineering (2021) 
+  - Parul University, Vadodara
+  
 
 ## Skills
 - Programming Languages: Python, Java, JavaScript
