@@ -26,7 +26,7 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - Implemented natural language processing (NLP) algorithms to extract critical information from the input text and generate HTML and CSS code accordingly.
 - Enabled users to provide textual descriptions and receive dynamically generated websites as output, reducing manual web development efforts.
 
-### [Project 2: AutoML - Simplifying Data Science Workflow](repo will be uploaded soon)
+### [Project 2: AutoML - Simplifying Data Science Workflow](https://github.com/mahirbarot/AutoML)
 
 - Created an AutoML (Automated Machine Learning) tool specifically designed for data science students to automate repetitive tasks in the data science workflow.
 - Implemented data exploration techniques using Pandas and NumPy to analyze datasets and provide insights about data quality, missing values, and statistical summaries.
