@@ -20,7 +20,7 @@ Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer 
 - Version Control: Git, GitHub
 - Software Development: Object-Oriented Programming (OOP)
 
-### [Project 1: NeuralBee - A Saas product]
+### [Project 1: NeuralBee - A Saas product](https://youtu.be/yHVYkHoeL6g)
 
 - Developed an innovative NeuralBee project that utilizes generative AI techniques to convert textual descriptions into fully functional websites.
 - Implemented natural language processing (NLP) algorithms to extract critical information from the input text and generate HTML and CSS code accordingly.
