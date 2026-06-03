@@ -6,7 +6,7 @@ I engineer scalable AI-powered products, enterprise workflow automation architec
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -20,7 +20,7 @@ I engineer scalable AI-powered products, enterprise workflow automation architec
 
 ---
 
-## 🚀 Key Projects & Engineering Initiatives
+## Key Projects & Engineering Initiatives
 
 ### **AI-Driven Feed Transformation Platform**
 *An enterprise-grade optimization engine converting raw product catalogs into high-performance, marketplace-ready feeds.*
@@ -40,7 +40,7 @@ I engineer scalable AI-powered products, enterprise workflow automation architec
 
 ---
 
-## 📈 Technical Focus Areas
+## Technical Focus Areas
 
 * **Agentic Systems:** Designing robust multi-agent frameworks capable of autonomous task execution and self-correction.
 * **Data & Feed Engineering:** High-performance data transformation, ingestion pipelines, and schema validation.
@@ -48,7 +48,7 @@ I engineer scalable AI-powered products, enterprise workflow automation architec
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 * **Technical Leadership:** Experienced in leading AI development initiatives, guiding technical strategy from initial Proof of Concept (PoC) to production.
 * **Academic Distinction:** GTU Rank Holder | Completed Diploma in Information Technology with a perfect **10.0 CGPA**.
