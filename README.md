@@ -59,4 +59,4 @@ I engineer scalable AI-powered products, enterprise workflow automation architec
 
 * **LinkedIn:** [linkedin.com/in/mahirbarot](https://linkedin.com/in/mahirbarot)
 * **Email:** [mahirbarot.connect@gmail.com](mailto:mahirbarot.connect@gmail.com)
-* **Portfolio:** [mahirbarot.com](https://mahirbarot.com) *(Optional: Keep if active, delete if not)*
+* **Portfolio:** [mahirbarot.com](https://mahirbarot.com) 
