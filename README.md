@@ -1,69 +1,62 @@
-# About Me
+# Hi, I'm Mahir Barot 
 
-## Introduction
-Hey there! Welcome to my GitHub profile. I'm Mahir Barot, a passionate Computer Science Engineering student with a strong interest in Data Science, Machine Learning, and Deep Learning. I believe in the power of data-driven decision-making and enjoy exploring its applications in various domains.
+### AI Engineer | GTM Automation Architect | Full-Stack Developer
 
-## Education
-- Bachelor's Degree in Computer Science Engineering (In Progress)
-  - Navrachna University, Vadodara
-  - Expected Graduation: 2024
-- Diploma in IT Engineering (2021) 
-  - Parul University, Vadodara
-  
+I engineer scalable AI-powered products, enterprise workflow automation architectures, and intelligent business systems. My expertise bridges the gap between core software engineering and applied AI—designing multi-agent systems, optimizing large-scale data pipelines, and building production-ready RAG applications that drive operational efficiency.
 
-## Skills
-- Programming Languages: Python, Java, JavaScript
-- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, TensorFlow, Keras
-- Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Natural Language Processing (NLP)
-- Data Manipulation and SQL: SQL, SQLite
-- Version Control: Git, GitHub
-- Software Development: Object-Oriented Programming (OOP)
+---
 
-### [Project 1: NeuralBee - A Saas product](https://youtu.be/yHVYkHoeL6g)
+## 🛠️ Tech Stack & Tooling
 
-- Developed an innovative NeuralBee project that utilizes generative AI techniques to convert textual descriptions into fully functional websites.
-- Implemented natural language processing (NLP) algorithms to extract critical information from the input text and generate HTML and CSS code accordingly.
-- Enabled users to provide textual descriptions and receive dynamically generated websites as output, reducing manual web development efforts.
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Java, SQL |
+| **AI & Intelligent Systems** | OpenAI API, Anthropic Claude, LangChain, RAG Systems, Vector Databases, Prompt Engineering |
+| **Backend & Architecture** | Node.js, Express.js, RESTful APIs, System Design, Authentication Pipelines |
+| **Frontend Engineering** | React, Next.js, Vite, Tailwind CSS, HTML5/CSS3 |
+| **Automation & Integration** | n8n, Webhooks, Advanced API Orchestration, Workflow Architecture, CRM Integrations |
+| **Databases & Storage** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **DevOps & Infrastructure** | Docker, AWS, Git, GitHub Actions (CI/CD) |
 
-### [Project 2: AutoML - Simplifying Data Science Workflow](https://github.com/mahirbarot/AutoML)
+---
 
-- Created an AutoML (Automated Machine Learning) tool specifically designed for data science students to automate repetitive tasks in the data science workflow.
-- Implemented data exploration techniques using Pandas and NumPy to analyze datasets and provide insights about data quality, missing values, and statistical summaries.
-- Developed data profiling algorithms to automatically identify the data types, distributions, and correlations within the dataset.
-- Enabled users to generate basic visualizations and gain initial insights into the dataset, saving time and effort in manual exploratory data analysis.
+## 🚀 Key Projects & Engineering Initiatives
 
-### [Project 3: House Price Prediction in Mumbai](https://github.com/mahirbarot/ai_mumbai)
+### **AI-Driven Feed Transformation Platform**
+*An enterprise-grade optimization engine converting raw product catalogs into high-performance, marketplace-ready feeds.*
+* **Target Ecosystems:** Google Merchant Center, Meta Commerce, TikTok Shop, Instagram Shopping.
+* **Core Architecture:** Engineered bulk data transformation pipelines featuring AI-powered attribute mapping and marketplace-specific schema generation.
+* **Performance:** Optimized for large-scale CSV/JSON streaming and high-throughput data processing.
 
-- Created a machine learning model to predict house prices in Mumbai based on various features such as location, size, amenities, and property type.
-- Collected and preprocessed a dataset containing historical property data, considering data cleaning, feature engineering, and outlier removal factors.
-- Utilized regression algorithms, including linear regression, decision trees, and ensemble methods, to train and evaluate the predictive models.
-- Employed libraries like Scikit-learn and Pandas for data manipulation, feature selection, and model evaluation.
-- Achieved accurate predictions and provided insights into the key factors influencing house prices in Mumbai, facilitating informed decision-making for real estate stakeholders.
-  
-## Certifications
-- [AWS Cloud Computing], [AWS], [2023]
-  - Description: Gained knowledge about the cloud computing domain.
+### **Generative UI & Web Creation Engine**
+*An applied AI system that translates complex natural language requirements into fully functional frontend interfaces.*
+* **Core Architecture:** Implemented structured generation pipelines leveraging state-of-the-art LLMs to dynamically construct clean, component-driven source code.
+* **Key Focus:** Advanced prompt engineering, state management, and real-time AI content generation.
 
-## Work Experience
-- Neuralbee, Vadodara, India
-  - Position: Founded
-  - Description: Started building this Saas product considering the Indian market segment.
+### **Enterprise Workflow Automation Engines**
+*Custom orchestration systems built to eliminate operational bottlenecks and connect disparate software ecosystems.*
+* **Implementation:** Built robust backend automation utilizing `n8n` and custom API middleware to automate high-volume business workflows.
+* **Impact:** Reduced manual data handling through automated internal reporting, cross-platform syncing, and custom internal AI copilots.
 
-## Academic Achievements
-- Aced Diploma Degree with 10 CGPA (in I.T dept) [Parul University (2018-2021)]
-- 1st rank GTU (I.T dept) 2019
-- 3rd rank GTU all-over Gujarat all departments 
+---
 
-## Interests
-- Exploring new advancements in data science, machine learning, and deep learning.
-- Participating in Kaggle competitions and contributing to open-source projects.
-- Reading research papers and attending conferences related to my field of interest.
+## 📈 Technical Focus Areas
 
-## Contact Information
-- GitHub: [mahirbarot](https://github.com/mahirbarot)
-- Email: mahir31012002@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/mahirbarot)
-- Twitter: (https://www.twitter.com/mahirbarott)
+* **Agentic Systems:** Designing robust multi-agent frameworks capable of autonomous task execution and self-correction.
+* **Data & Feed Engineering:** High-performance data transformation, ingestion pipelines, and schema validation.
+* **Revenue Operations (RevOps) Automation:** Aligning engineering with business logic to automate critical financial, sales, and marketing pipelines.
 
-Feel free to explore my GitHub repositories and reach out to me if you have any questions or collaboration opportunities. Let's connect and explore the fascinating world of data science together!
+---
+
+## 🏆 Key Achievements
+
+* **Technical Leadership:** Experienced in leading AI development initiatives, guiding technical strategy from initial Proof of Concept (PoC) to production.
+* **Academic Distinction:** GTU Rank Holder | Completed Diploma in Information Technology with a perfect **10.0 CGPA**.
+
+---
+
+## 🤝 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/mahirbarot](https://linkedin.com/in/mahirbarot)
+* **Email:** [mahirbarot.connect@gmail.com](mailto:mahirbarot.connect@gmail.com)
+* **Portfolio:** [mahirbarot.com](https://mahirbarot.com) *(Optional: Keep if active, delete if not)*
